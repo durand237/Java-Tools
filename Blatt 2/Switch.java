@@ -7,6 +7,7 @@ public class Switch {
         Scanner myWord = new Scanner(System.in);
         System.out.println("enter the word to define");
         String word = myWord.nextLine();
+        myWord.close();
         switch(word) {
             case "hoch":
                 System.out.println("The opposite is: tief");
@@ -28,7 +29,6 @@ public class Switch {
                 break; 
             default:
                 System.out.println("the Word was not define");
-        }
-        //myWord.close();
+        } 
     }
 }
