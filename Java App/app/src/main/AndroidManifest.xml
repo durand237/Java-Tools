@@ -12,6 +12,11 @@
         android:theme="@style/Theme.MyHomecm"
         tools:targetApi="31">
         <activity
+            android:name=".setting"
+            android:label="setting"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
