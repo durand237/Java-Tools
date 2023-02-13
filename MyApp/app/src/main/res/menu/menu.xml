@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-  
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/favoris"
+        android:icon="@drawable/favorits_24"
+        android:title="@string/favoris" />
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/contacts_24"
+        android:title="nos contacts"/>
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info_24"
+        android:title="info"/>
+    <item
+        android:id="@+id/moi"
+        android:icon="@drawable/moi_24"
+        android:title="mon profil"/>
 </menu>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="957f12a5-1fb3-4809-942b-e78e74ab70cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/java/com/example/sweethome/contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/java/com/example/sweethome/favoris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/java/com/example/sweethome/home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/java/com/example/sweethome/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/java/com/example/sweethome/moi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/baseline_perm_contact_calendar_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/contacts_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/favorits_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/home_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/info_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/moi_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/drawable/recherche_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/layout/fragment_contacts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/layout/fragment_favoris.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/layout/fragment_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/layout/fragment_moi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../main/res/navigation/navigation.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2La9l7DyYy3xsrZl6HmAI0RgHIF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/PC/Documents/VSCode/Java/Java-Tools/MyApp/app/src/test/java/com/example/sweethome_kt"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957f12a5-1fb3-4809-942b-e78e74ab70cb" name="Changes" comment="" />
+      <created>1676098474356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676098474356</updated>
+    </task>
+    <servers />
+  </component>
+</project>
