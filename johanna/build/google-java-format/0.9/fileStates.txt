@@ -1,8 +1,0 @@
-src/main/java/com/valdes/microfone/Micro.java,1675497771845783000,355,FORMATTED
-src/main/java/com/cosmos/microfone/google/GoogleMicro.java,1675875422990557000,1470,FORMATTED
-src/main/java/com/valdes/Main.java,1675498084191180000,252,INVALID
-src/main/java/com/cosmos/Main.java,1675874400402804000,111,FORMATTED
-src/main/java/com/cosmos/microfone/sphinx/SphinxMicro.java,1675875423011244000,1177,FORMATTED
-src/main/java/com/cosmos/speaker/Speaker.java,1675876470924519000,56,FORMATTED
-src/main/java/com/valdes/microfone/sphinx/SphinxMicro.java,1675498872932172000,1257,FORMATTED
-src/main/java/com/valdes/microfone/google/GoogleMicro.java,1675498876253571000,1395,FORMATTED
