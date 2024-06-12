@@ -20,6 +20,6 @@ jobs:
         distribution: 'temurin'
 
     - name: Grant execute permission for gradlew
-      run: javac -jar ../mastermind/MasterMind.java
+      run: javac -jar ./Mastermind/MasterMind.java
     - name: execute the code
-      run: java ../matermind/MaterMind
+      run: java ./Matermind/MaterMind
