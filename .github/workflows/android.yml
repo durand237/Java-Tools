@@ -20,4 +20,6 @@ jobs:
         distribution: 'temurin'
 
     - name: execute the code
-      run: java '**.class'
+      run: javac -jar '**/Mastermind.java'
+    - name: execute code
+      run: java Mastermind
