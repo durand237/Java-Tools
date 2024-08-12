@@ -1,2 +1,6 @@
 .class
 .project
+.idea
+*.iml
+.vscode/
+/.metadata/
