@@ -1,0 +1,16 @@
+.block-field{
+    display: block;
+}
+.mrg{
+    margin-bottom: 10px;
+}
+
+.m-r-l{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    margin-left: 10px;
+}
