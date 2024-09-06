@@ -1,6 +1,6 @@
 import { useContext, useState } from 'react'
 import {useNavigate} from 'react-router-dom'
-import AuthContext from './security/AuthContext'
+import AuthContext from '../security/AuthContext'
 
 function LoginComponent() {
 
@@ -25,7 +25,7 @@ function LoginComponent() {
 
     function SubmitEvent() {
 
-        if (userName=="harold" && password == 1234) {
+        if (userName=="harold" && password==1234) {
             setSuccesMsg(true)
             setErrorMsg(false)
             navigate(`/home/${userName}`) // use `` instead of regular ''
